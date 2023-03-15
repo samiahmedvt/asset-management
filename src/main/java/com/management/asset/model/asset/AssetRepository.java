@@ -1,4 +1,4 @@
-package com.example.collibrainterview.model.asset;
+package com.management.asset.model.asset;
 
 import org.springframework.data.repository.CrudRepository;
 

@@ -1,4 +1,4 @@
-package com.example.collibrainterview;
+package com.management.asset;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -6,10 +6,10 @@ import org.springframework.transaction.annotation.EnableTransactionManagement;
 
 @SpringBootApplication
 @EnableTransactionManagement
-public class CollibraInterviewApplication {
+public class AssetManangementApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(CollibraInterviewApplication.class, args);
+        SpringApplication.run(AssetManangementApplication.class, args);
     }
 
 }

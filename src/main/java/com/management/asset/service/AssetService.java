@@ -1,7 +1,7 @@
-package com.example.collibrainterview.service;
+package com.management.asset.service;
 
-import com.example.collibrainterview.model.asset.Asset;
-import com.example.collibrainterview.model.asset.AssetRepository;
+import com.management.asset.model.asset.Asset;
+import com.management.asset.model.asset.AssetRepository;
 import lombok.AllArgsConstructor;
 import org.springframework.stereotype.Component;
 import org.webjars.NotFoundException;

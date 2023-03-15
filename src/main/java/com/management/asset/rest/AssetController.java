@@ -1,7 +1,7 @@
-package com.example.collibrainterview.rest;
+package com.management.asset.rest;
 
-import com.example.collibrainterview.model.asset.Asset;
-import com.example.collibrainterview.service.AssetService;
+import com.management.asset.model.asset.Asset;
+import com.management.asset.service.AssetService;
 import lombok.AllArgsConstructor;
 import org.springframework.web.bind.annotation.*;
 import org.webjars.NotFoundException;
